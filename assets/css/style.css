@@ -243,3 +243,22 @@ img {
  	text-align: left;
  }
 }
+
+@media screen and (max-width: 640px) {
+  h1 {
+  	width: 640px;
+  	text-align: center;
+  }
+
+ .topbar {
+ 	width: 640px;
+ }
+
+ ul {
+ 	width: 640px;
+ }
+
+ li {
+ 
+ }
+}
