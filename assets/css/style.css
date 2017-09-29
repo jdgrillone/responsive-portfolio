@@ -254,11 +254,21 @@ img {
  	width: 640px;
  }
 
+ .main-block {
+ 	margin-top: 20px;
+ 	max-width: 500px;
+ }
+
  ul {
  	width: 640px;
  }
-
- li {
- 
+ li a {
+ 	padding-left: 80px;
+ 	padding-right: 80px;
  }
+
+ .connect {
+ 	max-width: 520px;
+ }
+
 }
